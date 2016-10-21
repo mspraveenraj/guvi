@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int a,p,i,c=1;
+    int a,p,c=1;
     printf("Enter the number and power:");
     scanf("%d%d",&a,&p);
     while(p!=0){
